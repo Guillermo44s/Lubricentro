@@ -33,4 +33,5 @@
         patente.mdiparent = Me
         patente.show
     End Sub
+
 End Class
